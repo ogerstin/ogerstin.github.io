@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ogerstin.github.io/sitemap.html.gz
+Sitemap: https://ogerstin.github.io/app/sitemap.html.gz
+Sitemap: https://ogerstin.github.io/assets/sitemap.html.gz
+Sitemap: https://ogerstin.github.io/css/sitemap.html.gz
+Sitemap: https://ogerstin.github.io/includes/sitemap.html.gz
+Sitemap: https://ogerstin.github.io/item/sitemap.html.gz
+Sitemap: https://ogerstin.github.io/src/sitemap.html.gz
